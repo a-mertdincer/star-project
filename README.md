@@ -1,1 +1,2 @@
-star-project
+# star-odev
+star değerlendirme projesi
